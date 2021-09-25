@@ -15,4 +15,4 @@ React JS, GraphQL, Mongoose
     거리, 리뷰개수 등 사용자가 원하는 조건에 맞추어 조건에 부합하는 장소만 리스트와 지도에 표시됩니다.
 
 ## 어려웠던 점
-    처음에 컴포넌트의 라이프 사이클을 숙지를 하지 않고 hook 함수를 이용해 useEffect로 인한 무한루프 문제나 useRef로 인한 undefined 에러등이 발생하였습니다.
+처음에 컴포넌트의 라이프 사이클을 숙지를 하지 않고 hook 함수를 이용해 useEffect로 인한 무한루프 문제나 useRef로 인한 undefined 에러등이 발생하였습니다.
